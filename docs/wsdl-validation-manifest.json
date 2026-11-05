@@ -1,0 +1,66 @@
+{
+  "roots": {
+    "http://www.onvif.org/ver10/device/wsdl": "https://www.onvif.org/ver10/device/wsdl/devicemgmt.wsdl",
+    "http://www.onvif.org/ver10/media/wsdl": "https://www.onvif.org/ver10/media/wsdl/media.wsdl",
+    "http://www.onvif.org/ver20/media/wsdl": "https://www.onvif.org/ver20/media/wsdl/media.wsdl",
+    "http://www.onvif.org/ver20/ptz/wsdl": "https://www.onvif.org/ver20/ptz/wsdl/ptz.wsdl"
+  },
+  "documents": {
+    "https://www.onvif.org/ver10/device/wsdl/devicemgmt.wsdl": {
+      "file": "ee901f8954955109fd5e8a0bc8601c34bc42bd4c730b9cd97aa47c2ab70c70b8.xml",
+      "sha256": "c66773e3da37e493f370b1ed31906a8b3eee980ccd23735245ea2dc45b87eecf"
+    },
+    "https://www.onvif.org/ver10/media/wsdl/media.wsdl": {
+      "file": "d9936438a8c0e9acece0cfd62833eb65d1e0bc2e9e4a866aadec39d6ec676750.xml",
+      "sha256": "bb4596f47ff0f907b8113fd2c86f649faa098df0e0df9f1c5f4de34f592de1eb"
+    },
+    "https://www.onvif.org/ver20/media/wsdl/media.wsdl": {
+      "file": "036dce276f53523afe788bb370d1cd877d5e60eea863752a3e2e7a3093be4a95.xml",
+      "sha256": "0a1d59636910074ec4fb80b9a43f398ce208f4e38a6c7dff414eb6ddba3a1613"
+    },
+    "https://www.onvif.org/ver20/ptz/wsdl/ptz.wsdl": {
+      "file": "b614e69a2b046aa09588aa122bba8be0bc1db335b66ec74f08f9b41535103b94.xml",
+      "sha256": "6cbeaf5c8d123401d4fe1a5b99bead9b31730fcf113078fa85776c3aefae4d2b"
+    },
+    "https://www.onvif.org/ver10/schema/onvif.xsd": {
+      "file": "0b8275e66342e302e20e3759ff7995ee5c8908745012904ebf4040ecea8992f4.xml",
+      "sha256": "1de6e9dd31a18a6773b611c4f7eaa0528f219098ddfc883b380802aa9a7ff647"
+    },
+    "https://www.onvif.org/ver10/schema/common.xsd": {
+      "file": "0649bd35de91e5591fe7d207c10b71acac443413725a1fea51bb491a5875b7d1.xml",
+      "sha256": "d945394fe823febcd873ed8444ccfd73f3b5234d6dfbf0e151a33f5e611b5077"
+    },
+    "https://www.w3.org/2005/05/xmlmime": {
+      "file": "f7a544302a0ad681c9352ce1a51d26261ae15d6b02bf701e88f8d2c08c459349.xml",
+      "sha256": "330ab79ecdd3a8628f12ef4cbe34351e448f9b9231bacad339881ce1a61237a2"
+    },
+    "https://www.w3.org/2003/05/soap-envelope": {
+      "file": "71bc1315b8088bcf882411d922d3a30095e49171d22f1dc93ebf8ad8f045765b.xml",
+      "sha256": "3ae8caa9a74e83528cc0e1a59fc12784435e8e0086e890d0e1b04d881c079bec"
+    },
+    "http://docs.oasis-open.org/wsn/b-2.xsd": {
+      "file": "f3b91b966a5ff4b6bf3cbec551b1e3064f999779b86100f0444b66f4d6a27089.xml",
+      "sha256": "26f0c7aa9a3719412e2e3275bc80320edb4b2dc9783bf2bb08c6378f4ca681fe"
+    },
+    "https://www.w3.org/2004/08/xop/include": {
+      "file": "eb291e501bbbc7b5f604f5eab1ea47bfc821ec6983504e33fbe0803efc58ed04.xml",
+      "sha256": "dff9100efce4afb21de0cf673fb7fad103672a169862ab0f12e34c312b20e60d"
+    },
+    "http://www.w3.org/2001/xml.xsd": {
+      "file": "47812a16d9bc8d456ac092ad413f32029bdda78153759654f42767c76316f302.xml",
+      "sha256": "61960fb3131e38022caad5360e2f33a3382578ab3c80cd58bd74320ede61b20c"
+    },
+    "http://www.w3.org/2005/08/addressing/ws-addr.xsd": {
+      "file": "758113c37ceb9746dfa957d2f0db44e032d5de572e7e828f1b6c676c01f8ff87.xml",
+      "sha256": "af806cc9af2514e9b0b07efe4e4dc42a32dad8ac08473dc025136207779d5ee9"
+    },
+    "http://docs.oasis-open.org/wsrf/bf-2.xsd": {
+      "file": "c5a788668f872073628b03f5336800f07e1c225f8967736c32e21ffee46fe36e.xml",
+      "sha256": "7863ccf5b21105c374a405968266fa18ecd0ebe0f7b9b19cd9378656229ff468"
+    },
+    "http://docs.oasis-open.org/wsn/t-1.xsd": {
+      "file": "95e749b0cfa50f32998501c2f034355edb2ad47b36618343b401a2af762dd005.xml",
+      "sha256": "ad5db0432a3885d1c8a574ba6b4058193af29bc971232c4bb6b31f8295fe3329"
+    }
+  }
+}
